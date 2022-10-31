@@ -10,7 +10,12 @@
 - 📫 How to reach me here: LinkedIn[@mubaraq](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), Email(mubaraqgbolahan014@gmail.com)
 - ⚡ You can also take a sneak peek at my [Tableau Dashboard](https://public.tableau.com/app/profile/mubaraq.onipede) for my Data Visualizations.
 
+<br>
 
+![Mubaraq's github stats](https://github-readme-stats.vercel.app/api?username=Mubarraqqq&show_icons=true&theme=default) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarraqqq&layout=compact)](https://github.com/Mubarraqqq/Mubarraqqq)
+
+<!--
 <!--
 **Mubarraqqq/Mubarraqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
