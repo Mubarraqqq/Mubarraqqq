@@ -11,12 +11,12 @@
 - ⚡ You can also take a sneak peek at my [Tableau Dashboard](https://public.tableau.com/app/profile/mubaraq.onipede) for my Data Visualizations.
 
 <br>
-
+<!-- This is commented out. 
 ![Mubaraq's github stats](https://github-readme-stats.vercel.app/api?username=Mubarraqqq&show_icons=true&theme=default) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarraqqq&layout=compact)](https://github.com/Mubarraqqq/Mubarraqqq)
 
-<!--
-<!--
+
+
 **Mubarraqqq/Mubarraqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
