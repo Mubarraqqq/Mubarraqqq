@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Analysis, and Data Science,
+- 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Analysis, and Data Science.
 - 🌱 I currently use Python, SQL and Tableau for Data science and Analysis tasks.
 - 💞️ I’m looking to collaborate on projects and partake in open source contributions that would help me improve my skills and experience.
 - 📫 How to reach me here: LinkedIn[@mubaraq](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), Email(mubaraqgbolahan014@gmail.com)
