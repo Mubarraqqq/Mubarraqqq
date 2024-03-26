@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, and Data Science.
 - 💞️ I’m looking to collaborate on projects and partake in open-source contributions that would help me improve my skills and experience.
-- 📫 How to reach me here: LinkedIn[@mubaraq](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), Email(mubaraqgbolahan014@gmail.com
+- 📫 How to reach me here: [LinkedIn](https://www.linkedin.com/in/mubaraq-onipede-05562b189/) & [Email](mubaraqgbolahan014@gmail.com)
 - ⚡ You can also take a sneak peek at my [Tableau Dashboard](https://public.tableau.com/app/profile/mubaraq.onipede) for my Data Visualizations.
  
 <br>
