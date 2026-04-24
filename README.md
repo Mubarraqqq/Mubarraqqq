@@ -3,4 +3,4 @@
 - 🔍 **I’m interested in** things that I don't know yet.
 - ⚙️ **I’m looking to work on** technical projects and research that might tend to drive me crazy.
 - 👔 **You can view my** [LinkedIn](https://www.linkedin.com/in/mubaraq-onipede-05562b189/) to peep my work profile.
-- ☕ **You can send me a** concise [Email](mailto:mubaraqgbolahan014@gmail.com) to connect, grab a coffee, or discuss mind-boggling ideas.
+- ☕ **You can send me a** concise [Email](mailto:mubaraqgbolahan014@gmail.com) to connect, grab a coffee (if you are in London), or discuss mind-boggling ideas.
